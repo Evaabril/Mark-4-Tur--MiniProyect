@@ -1,6 +1,26 @@
 # Mark-4-Tur--MiniProyect
 
-Proyecto de adquisición de tablas mediante web scraping y Dataset. A lo largo del proyecto podréis ver los diversos pasos para la obtención de los datos, así como su limpieza y agrupación para posteriormente, sacar un conjunto de conclusiones. 
+Proyecto Mark-4-Tur--MiniProyecto
+Este repositorio contiene el proyecto Mark-4-Tur--MiniProyecto, el cual se enfoca en la adquisición de tablas mediante web scraping y el uso de datasets. A lo largo del proyecto, encontrarás los siguientes aspectos destacados:
 
-Para ver el proyecto completo acceder directamente al notebook con el mismo nombre del proyecto MArk 4 Tur-
-El resto de notebooks añadidos pueden dar información más precia de la extraccion de los datos y la limpieza. 
+Obtención de Datos: Se muestra el proceso para adquirir datos utilizando técnicas de web scraping.
+Limpieza y Agrupación de Datos: Se detalla el proceso de limpieza y organización de los datos para su posterior análisis.
+Conclusiones: Se presentan las conclusiones obtenidas a partir del análisis de los datos.
+Acceso al Proyecto
+Para explorar el proyecto completo, accede directamente al notebook con el mismo nombre del proyecto, "Mark 4 Tur-"
+
+Conjuntos de Datos
+Los conjuntos de datos utilizados en este proyecto se pueden encontrar en las siguientes fuentes:
+
+DataEstur API
+Wikipedia - Turismo en España
+Requisitos
+Para ver el trabajo completo recomiento ver primero la parte 1 donde se recopilan los datos de turismo receptor, y la parte 2 donde encontramos el turismo emisor
+
+
+¡Gracias por tu interés en el proyecto Mark-4-Tur--MiniProyecto!
+
+
+
+
+
